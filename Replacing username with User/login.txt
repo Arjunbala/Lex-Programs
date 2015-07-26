@@ -1,0 +1,2 @@
+username is logged in
+username has logged out
